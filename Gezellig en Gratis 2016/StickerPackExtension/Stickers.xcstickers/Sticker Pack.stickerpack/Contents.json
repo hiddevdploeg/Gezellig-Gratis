@@ -1,0 +1,71 @@
+{
+  "stickers" : [
+    {
+      "filename" : "ja.sticker"
+    },
+    {
+      "filename" : "Nee.sticker"
+    },
+    {
+      "filename" : "k.sticker"
+    },
+    {
+      "filename" : "Gezellig.sticker"
+    },
+    {
+      "filename" : "ZinIn.sticker"
+    },
+    {
+      "filename" : "Tuurlijk.sticker"
+    },
+    {
+      "filename" : "OkDoei.sticker"
+    },
+    {
+      "filename" : "He.sticker"
+    },
+    {
+      "filename" : "Joe.sticker"
+    },
+    {
+      "filename" : "HoiHoooi.sticker"
+    },
+    {
+      "filename" : "WelDuur.sticker"
+    },
+    {
+      "filename" : "HupHup.sticker"
+    },
+    {
+      "filename" : "DuurtLang.sticker"
+    },
+    {
+      "filename" : "Kusjes.sticker"
+    },
+    {
+      "filename" : "Lief.sticker"
+    },
+    {
+      "filename" : "Gratis-2.sticker"
+    },
+    {
+      "filename" : "DuurMan.sticker"
+    },
+    {
+      "filename" : "Gratis.sticker"
+    },
+    {
+      "filename" : "Oja.sticker"
+    },
+    {
+      "filename" : "Serieus.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
