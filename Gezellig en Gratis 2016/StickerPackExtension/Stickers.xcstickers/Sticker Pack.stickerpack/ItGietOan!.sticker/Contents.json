@@ -1,0 +1,10 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "accessibility-label" : "It giet oan!",
+    "filename" : "ItGietOan!.png"
+  }
+}
